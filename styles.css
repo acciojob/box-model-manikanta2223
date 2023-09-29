@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+.container{
+	width:600px;
+	height:200px;
+	background-color:gray;
+	border:5px solid black;
+	border-radius:60px;
+	border-size:border-box;
+	display:flex;
+	justify-content:center;
+	padding:40px;
+	align-item:center;
+	box-sizing:border-box;
+}
+.green{
+	width:100px;
+	height:100px;
+	background-color:green;
+	border-radius:50%;
+}
+.yellow{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	border-radius:50%;
+}
+.red{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border-radius:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
